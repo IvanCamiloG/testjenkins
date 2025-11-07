@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ExFG54I70dI=",
+  "dgSpecHash": "LHgrvV8H+eI=",
   "success": true,
-  "projectFilePath": "D:\\testc\\BlazorApp1.Tests\\BlazorApp1.Tests.csproj",
+  "projectFilePath": "D:\\testjenkins\\BlazorApp1.Tests\\BlazorApp1.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Camilo\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Camilo\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

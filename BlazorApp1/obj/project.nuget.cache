@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0wRtfhkj5Zc=",
+  "dgSpecHash": "JPBHraP3PK8=",
   "success": true,
-  "projectFilePath": "D:\\testc\\BlazorApp1\\BlazorApp1.csproj",
+  "projectFilePath": "D:\\testjenkins\\BlazorApp1\\BlazorApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

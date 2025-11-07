@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hN8TLgmYpzE=",
+  "dgSpecHash": "n8gZPfkjVwE=",
   "success": true,
-  "projectFilePath": "D:\\testc\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\testjenkins\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
