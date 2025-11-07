@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kpf+38R2OlI=",
+  "success": true,
+  "projectFilePath": "D:\\testc\\TestTUnit\\TestTUnit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camilo\\.nuget\\packages\\enumerableasyncprocessor\\3.8.4\\enumerableasyncprocessor.3.8.4.nupkg.sha512",
+    "C:\\Users\\Camilo\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\2.0.1\\microsoft.testing.extensions.trxreport.abstractions.2.0.1.nupkg.sha512",
+    "C:\\Users\\Camilo\\.nuget\\packages\\microsoft.testing.platform\\2.0.1\\microsoft.testing.platform.2.0.1.nupkg.sha512",
+    "C:\\Users\\Camilo\\.nuget\\packages\\microsoft.testing.platform.msbuild\\2.0.1\\microsoft.testing.platform.msbuild.2.0.1.nupkg.sha512",
+    "C:\\Users\\Camilo\\.nuget\\packages\\tunit\\0.76.0\\tunit.0.76.0.nupkg.sha512",
+    "C:\\Users\\Camilo\\.nuget\\packages\\tunit.assertions\\0.76.0\\tunit.assertions.0.76.0.nupkg.sha512",
+    "C:\\Users\\Camilo\\.nuget\\packages\\tunit.core\\0.76.0\\tunit.core.0.76.0.nupkg.sha512",
+    "C:\\Users\\Camilo\\.nuget\\packages\\tunit.engine\\0.76.0\\tunit.engine.0.76.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+
+<PageTitle>Suma</PageTitle>
+
+<h1>Suma</h1>
+
+<div class="mb-3">
+    <label for="aInput">Ingrese Un Numero</label>
+    <input id="aInput" type="number" @bind="a" class="form-control" />
+</div>
+
+<div class="mb-3">
+    <label for="bInput">Ingrese El Segundo Numero</label>
+    <input id="bInput" type="number" @bind="b" class="form-control" />
+</div>
+
+<button class="btn btn-primary" @onclick="Sumar">Sumar</button>
+
+<p class="mt-3">Resultado: <strong>@resultado</strong></p>
+
+@code {
+    private int a = 0;
+    private int b = 0;
+    private int resultado = 0;
+
+    private void Sumar()
+    {
+        resultado = a +b;
+    }
+}
